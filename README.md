@@ -91,3 +91,10 @@ Esta petición solicita al servidor una imagen en formato SVG que se utiliza en 
 Esta petición solicita al servidor un archivo JavaScript utilizado por la página web.
 
 ![Peticion3](img/Peticion3.png)
+
+## 4. Conclusión
+
+El análisis de Wikipedia permite relacionar los conceptos estudiados en el Bloque 1. El navegador actúa como cliente, mientras que Wikipedia dispone de servidores que reciben las peticiones HTTP y devuelven las respuestas correspondientes.
+
+
+Además, mediante la pestaña Network de DevTools podemos observar cómo el navegador realiza diferentes peticiones para obtener HTML, CSS, imágenes y otros recursos necesarios para mostrar la página.
